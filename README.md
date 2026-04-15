@@ -29,7 +29,7 @@
 
 El Sistema de Gestión Hotelera es una aplicación web full-stack que permite administrar la operación de un hotel boutique, incluyendo la gestión de huéspedes, habitaciones, reservas y servicios adicionales como spa, restaurante y lavandería. El sistema facilita procesos clave como el registro de clientes, control de disponibilidad, check-in y check-out, así como la facturación de servicios, optimizando la organización y evitando errores como el overbooking.
 
-🧰 Pila Tecnológica
+## 🧰 Pila Tecnológica
 
 Frontend: React (Next.js)
 Backend: NestJS
@@ -37,7 +37,7 @@ Base de datos: PostgreSQL
 ORM: Prisma
 Contenedores: Docker
 
-🏗️ Arquitectura
+## 🏗️ Arquitectura
 
 El sistema sigue una arquitectura cliente-servidor:
 
@@ -52,7 +52,7 @@ Habitaciones
 Reservas
 Servicios
 
-🧠 Modelo de Datos
+## 🧠 Modelo de Datos
 
 El sistema se basa en un modelo relacional con las siguientes entidades:
 
@@ -67,7 +67,7 @@ Un huésped puede tener múltiples reservas
 Una habitación puede tener múltiples reservas
 Una reserva puede tener múltiples servicios
 
-🚀 Plan de Lanzamientos (Releases)
+## 🚀 Plan de Lanzamientos (Releases)
 
 🔹 Release 1: Base del sistema
 Gestión de huéspedes
@@ -80,7 +80,7 @@ Facturación
 Reportes
 Dashboard
 
-🧩 Sprints e Historias de Usuario
+## 🧩 Sprints e Historias de Usuario
 
 El desarrollo se organizó en sprints bajo metodología ágil (Scrum):
 
@@ -91,11 +91,11 @@ Sprint 4: Servicios y facturación
 Sprint 5: Reportes y dashboard
 Sprint 6: Pruebas y despliegue
 
-📅 Cronograma
+## 📅 Cronograma
 
 El proyecto se desarrolló en un periodo de aproximadamente 6 semanas, distribuidas en sprints semanales con entregables incrementales.
 
-✅ Definición de Hecho (DoD)
+## ✅ Definición de Hecho (DoD)
 Backend
 Endpoints funcionales
 Validaciones implementadas
@@ -109,7 +109,7 @@ Docker configurado
 Proyecto modular
 Código limpio y versionado
 
-📌 Tablero Kanban
+## 📌 Tablero Kanban
 
 El seguimiento del proyecto se realizó mediante un tablero Kanban con las siguientes columnas:
 
@@ -118,7 +118,7 @@ En progreso
 En revisión
 Completado
 
-⚙️ Instalación y Ejecución
+## ⚙️ Instalación y Ejecución
 🔹 Requisitos
 Docker
 Node.js
