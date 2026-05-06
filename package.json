@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@prisma/config": "^7.7.0",
-    "dotenv": "^17.4.2"
-  }
-}
